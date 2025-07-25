@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Trabalho_Analisador_Sintatico_Artur_Pedro_Ryudi:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a5ed823-8610-40ea-8b51-e97795721162" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Trabalho_Analisador_Sintatico_Artur_Pedro_Ryudi_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_lexico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_lexicoConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_lexicoTokenManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_semantico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoAntigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoConstantsAntigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoTokenManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoTokenManagerAntigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Ações.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Boia_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Copy_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Cut_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/New_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Open_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/PLAY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Paste_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Save_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/gerramenta_32bit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Instrucao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Instrucoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/NavigationFilterPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/ParseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Simbolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/SimpleCharStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Terminal.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Terminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/TextLineNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/TokenMgrError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Trabalho_Analisador_Sintatico_Artur_Pedro_Ryudi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Trabalho_Analisador_Sintatico_Artur_Pedro_Ryudi-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_lexico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_lexicoConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_lexicoTokenManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_semantico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintatico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoAntigo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoConstantsAntigo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoTokenManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Analisador_sintaticoTokenManagerAntigo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Ações.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Boia_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Copy_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Cut_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/New_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Open_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/PLAY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Paste_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/Save_(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Images/gerramenta_32bit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Instrucao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Instrucoes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/NavigationFilterPrefix$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/NavigationFilterPrefix$BackspaceAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/NavigationFilterPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/ParseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Simbolo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/SimpleCharStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Codigo_Intermediario.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela_Salvar.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Terminal$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Terminal$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Terminal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Terminal.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/TextLineNumber$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/TextLineNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/TokenMgrError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Trabalho_Analisador_Sintatico_Artur_Pedro_Ryudi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pedrodinon15/Compilador.git",
+    "accountId": "f022a1c1-fb46-49a6-b503-9d5637d92057"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2laP9yWd5zarbovuu8O0NDCwh7D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Analisador_lexico.executor": "Run",
+    "Application.Tela.executor": "Run",
+    "Application.Tela2.executor": "Run",
+    "Application.Tela_Salvar.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pedro/Downloads/trabai (2)/Trabalho_Analisador_Sintatico_Artur_Pedro_Ryudi",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a5ed823-8610-40ea-8b51-e97795721162" name="Changes" comment="" />
+      <created>1725415068166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725415068166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Tela2.java</url>
+          <line>761</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Instrucoes.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mycompany/trabalho_analisador_sintatico_artur_pedro_ryudi/Instrucoes.java</url>
+          <line>330</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="t" />
+        <watch expression="t.codigoIntermediario.get(3)" />
+        <watch expression="t.analisadorSemantico" />
+        <watch expression="t.analisadorSemantico.AreaInstrucoes.get(0).codigo" />
+        <watch expression="t.pilhaTipos" />
+        <watch expression="t.pilhaTipos" />
+        <watch expression="this" />
+        <watch expression="((java.util.ArrayList)((Tela2)this).codigoIntermediario).get(8)" custom="com.mycompany.trabalho_analisador_sintatico_artur_pedro_ryudi.Tela2,java.util.ArrayList" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
